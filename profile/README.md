@@ -30,5 +30,5 @@ GitHub serves as a hub for our team to collaborate and grow. It’s where the ma
 We’d love to connect with you! Whether you’re a photographer, tech enthusiast, or just curious, feel free to explore our
 website or reach out with any questions.
 
-Visit us at [www.capturacloud.com](https://www.capturacloud.com) – we’re here to help you make your photography business
+Visit us at [capturacloud.com](https://capturacloud.com) – we’re here to help you make your photography business
 thrive!
